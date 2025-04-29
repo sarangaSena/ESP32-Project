@@ -34,4 +34,4 @@ This project is built on the principles of open-source collaboration. By sharing
 
 1. Clone the repository:  
    ```bash
- git clone https://github.com/sarangaSena/ESP32-Project.git
+   git clone https://github.com/sarangaSena/ESP32-Project.git
